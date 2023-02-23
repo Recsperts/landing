@@ -1,5 +1,5 @@
 ---
-baseURL: https://recspert.com
+baseURL: /
 languageCode: en-us
 title: Recspert
 theme: piko
