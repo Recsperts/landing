@@ -1,10 +1,10 @@
 ---
-baseURL: https://piko-heksagon.netlify.app/
+baseURL: https://recspert.com
 languageCode: en-us
-title: Piko
+title: Recspert
 theme: piko
 paginate: "9"
-copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
+copyright: Your ultimate virtual recreation center
 googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
 enableRobotsTXT: true
 buildDrafts: false
@@ -43,11 +43,9 @@ params:
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
-    text: Welcome to Piko
-    icon: /uploads/zap.svg
-    iconHeight: "35"
-    iconWIdth: "35"
+    icon: /images/new-logo.svg
+    iconHeight: "140"
+    iconWidth: "50"
   comments: true
   mainSections:
   - blog
@@ -62,22 +60,22 @@ params:
   contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
   assets:
     disableFingerprinting: false
-    favicon: /uploads/zap.svg
-    favicon16x16: /uploads/zap.svg
-    favicon32x32: /uploads/zap.svg
-    apple_touch_icon: /uploads/zap.svg
-    safari_pinned_tab: /uploads/zap.svg
+    favicon: /images/new-logo.svg
+    favicon16x16: /images/new-logo.svg
+    favicon32x32: /images/new-logo.svg
+    apple_touch_icon: /images/new-logo.svg
+    safari_pinned_tab: /images/new-logo.svg
   ShowReadingTime: true
   ShowBreadCrumbs: true
   homepage:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    heroTitle: Piko
-    heroDescription: Lightweight theme for your every need
+    heroTitle: Recspert
+    heroDescription: Your ultimate virtual recreation center
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
-    heroCTASecondaryText: Contact Me
+    heroCTASecondaryText: Contact
     heroCTASecondaryUrl: "/contact/"
     heroBackgroundImage: "/uploads/portfolio-1.webp"
     # Blog Section
@@ -122,8 +120,6 @@ params:
     - summary
     - content
   plugins:
-    css:
-    - link: plugins/css/pico.min.css
     js:
     - link: plugins/js/feather.min.js
 menus:
@@ -143,10 +139,10 @@ menus:
     pre: mail
     url: "/contact"
     weight: "40"
-  - name: Github
-    title: 
-    pre: github
-    url: https://github.com/heksagonnet/piko
+  - name: Get Started
+    title: Get Started
+    pre:
+    url: /login
     weight: "50"
   search: # Search page's quick links
   - name: Categories
