@@ -1,8 +1,6 @@
 ---
-title: "Search" # in any language you want
-layout: "search" # is necessary
-# url: "/archive"
-# description: "Description for Search"
-summary: "search"
----
+title: HOW IT WORKS
+layout: search
+summary: search
 
+---
