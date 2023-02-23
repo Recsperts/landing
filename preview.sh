@@ -1,0 +1,1 @@
+cd recspertLanding && hugo server -D -E -F -d public --themesDir ../..
