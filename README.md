@@ -1,32 +1,4 @@
-<h1 align='center'>
-Piko | <a target="_blank" href="https://piko-heksagon.netlify.app/" rel="nofollow">Demo</a> | <a target="_blank" href="https://googlechrome.github.io/lighthouse/viewer/?gist=f7cc22c0b0323e1b36e5d47bf2393acf" rel="nofollow">Lighthouse report (100%)</a>
-</h1>
-
-<p align='center'>
-  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.91.0" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.91.0&color=f00&logo=hugo" />
-  </a>
-
-  <a href="https://github.com/heksagonnet/piko/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/heksagonnet/piko" alt="license"></a>
-
-  <img src="https://img.shields.io/github/languages/code-size/heksagonnet/piko" alt="code size">
-
-  <a href="https://github.com/heksagonnet/piko/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/heksagonnet/piko" alt="contributors"></a>
-
-  <a href="https://twitter.com/intent/follow?screen_name=heksagonnet">
-    <img src="https://img.shields.io/twitter/follow/heksagonnet?style=social&logo=twitter"
-      alt="follow on Twitter"></a>
-</p>
-
----
-
-![Piko is a minimalistic and fast theme powered by Hugo for building a blog or portfolio.](https://raw.githubusercontent.com/heksagonnet/piko/master/exampleSite/static/uploads/piko-screenshot.webp)
-
-<p align='center'>
-"Piko is a minimalistic and fast theme powered by Hugo for building a blog or portfolio."
-</p>
+# Landing page for recspert.com
 
 ---
 ## Features
@@ -115,11 +87,3 @@ $ hugo server --themesDir ../..
 ![Chooose Git repo](https://raw.githubusercontent.com/heksagonnet/piko/master/images/forestry-7.webp)
 
 8. Edit your website to your heart's content!
-
----
-
-## Hire me
-
-Besides developing stunning and blazing fast website templates, I also provide web design services. My speciality is in creating high-quality static websites based on Hugo.
-
-If you are interested to know more, do not hesitate to [contact me here.](https://www.heksagon.net/contact/)
