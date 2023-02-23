@@ -1,1 +1,1 @@
-cd recspertLanding && hugo server -D -E -F -d public --themesDir ../..
+hugo server -D -E -F -d public
