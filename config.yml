@@ -27,6 +27,8 @@ minify:
   tdewolff:
     html:
       keepWhitespace: false
+ignoreErrors:
+  - "error-remote-getjson"
 
 params:
   analytics:
