@@ -43,12 +43,7 @@ If you wish to develop in your local environment, make sure you have installed:
  
 Then open command prompt in your development folder.
 
-```yml
-# Clone the repository
-$ git clone https://github.com/heksagonnet/piko.git
-
-# cd in the project directory
-$ cd piko/exampleSite/
+```
 
 # Start local dev server
 $ hugo server --themesDir ../..
