@@ -1,12 +1,11 @@
 ---
-title: "Thanks" # in any language you want
-layout: "thanks" # is necessary
+title: WHAT WE DO
+layout: thanks
 searchHidden: true
-# url: "/archive"
-description: "Thanks for the submission"
-summary: "thanks"
----
+description: Thanks for the submission
+summary: thanks
 
+---
 {{< rawhtml >}}
 
         <hgroup>
