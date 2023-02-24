@@ -10,11 +10,9 @@ sections:
 - type: document
   path: recspertLanding/content/whatwedo
   label: WHAT WE DO
-  read_only: false
 - type: document
   path: recspertLanding/content/meettheteam
   label: MEET THE TEAM
-  read_only: false
 - type: directory
   path: recspertLanding/content/blog
   label: OUR BLOG
