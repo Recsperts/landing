@@ -144,7 +144,7 @@ menus:
     title: Our Blog
     url: "/tags"
     weight: "30"
-     name: JOIN US
+  - name: JOIN US
     title: JOIN US
     pre:
     url: /login
