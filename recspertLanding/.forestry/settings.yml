@@ -11,15 +11,9 @@ sections:
   path: recspertLanding/content/whatwedo
   label: WHAT WE DO
   read_only: true
-- type: directory
-  path: ''
-  label: HOW IT WORKS
-  create: all
-  match: "**/*"
 - type: document
   path: recspertLanding/content/meettheteam
   label: MEET THE TEAM
-  match: "**/*"
   read_only: true
 - type: directory
   path: recspertLanding/content/blog
