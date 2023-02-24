@@ -126,8 +126,8 @@ params:
     - link: plugins/js/feather.min.js
 menus:
   main: # Main Menu
-  - name: Blog
-    title: Blog
+  - name: My Blog name
+    title: My Blog title
     pre:
     url: "/blog"
     weight: "20"
