@@ -14,7 +14,7 @@ sections:
 - type: document
   path: recspertLanding/content/meettheteam
   label: MEET THE TEAM
-  read_only: true
+  read_only: false
 - type: directory
   path: recspertLanding/content/blog
   label: OUR BLOG
