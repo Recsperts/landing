@@ -126,31 +126,26 @@ params:
     - link: plugins/js/feather.min.js
 menus:
   main: # Main Menu
-  - name: My Blog name
-    title: My Blog title
+  - name: WHAT WE DO
+    title: What we do
     pre:
-    url: "/blog"
+    url: "/what we do"
     weight: "20"
-  - name: Contact
-    title: Contact
+  - name: HOW IT WORKS
+    title: How it Works
     pre:
-    url: "/contact"
+    url: "/how it works"
     weight: "40"
-  - name: Get Started
-    title: Get Started
+  - name: MEET THE TEAM
+    title: Meet the Team
+    url: "/meet the team"
+    weight: "20"
+  - name: OUR BLOG
+    title: Our Blog
+    url: "/tags"
+    weight: "30"
+     name: JOIN US
+    title: JOIN US
     pre:
     url: /login
     weight: "50"
-  search: # Search page's quick links
-  - name: Categories
-    title: Categories
-    url: "/categories"
-    weight: "10"
-  - name: Archives
-    title: Archives
-    url: "/archives"
-    weight: "20"
-  - name: Tags
-    title: Tags
-    url: "/tags"
-    weight: "30"
