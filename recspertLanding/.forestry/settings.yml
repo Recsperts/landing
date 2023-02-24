@@ -7,6 +7,10 @@ sections:
 - type: document
   path: recspertLanding/config.yml
   label: Configure
+- type: document
+  path: recspertLanding/content/whatwedo
+  label: WHAT WE DO
+  read_only: true
 - type: directory
   path: ''
   label: HOW IT WORKS
@@ -18,7 +22,7 @@ sections:
   create: all
   match: "**/*"
 - type: document
-  path: recspertLanding/content/archives.md
+  path: recspertLanding/content/subscribe
   label: SUBSCRIBE
 - type: document
   path: recspertLanding/content/search.md
@@ -26,9 +30,6 @@ sections:
 - type: document
   path: recspertLanding/content/contact.md
   label: Contact
-- type: document
-  path: recspertLanding/content/thanks.md
-  label: Thanks
 - type: document
   path: recspertLanding/content/legal/privacy.md
   label: Privacy Policy
