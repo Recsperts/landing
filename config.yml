@@ -128,17 +128,12 @@ menus:
   main: # Main Menu
   - name: Blog
     title: Blog
-    pre: pen-tool
+    pre:
     url: "/blog"
     weight: "20"
-  - name: Search
-    title: Search
-    pre: search
-    url: "/search"
-    weight: "30"
   - name: Contact
     title: Contact
-    pre: mail
+    pre:
     url: "/contact"
     weight: "40"
   - name: Get Started
