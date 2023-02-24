@@ -9,17 +9,7 @@ sections:
   label: Configure
 - type: directory
   path: ''
-  label: WHAT WE DO
-  create: all
-  match: "**/*"
-- type: directory
-  path: ''
   label: HOW IT WORKS
-  create: all
-  match: "**/*"
-- type: directory
-  path: ''
-  label: MEET THE TEAM
   create: all
   match: "**/*"
 - type: directory
