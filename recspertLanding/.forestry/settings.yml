@@ -4,6 +4,9 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: recspertLanding/config.yml
+  label: Configure
 - type: directory
   path: ''
   label: WHAT WE DO
@@ -30,9 +33,6 @@ sections:
 - type: document
   path: recspertLanding/content/search.md
   label: JOIN US
-- type: document
-  path: recspertLanding/config.yml
-  label: Configure
 - type: document
   path: recspertLanding/content/contact.md
   label: Contact
