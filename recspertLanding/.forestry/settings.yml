@@ -1,0 +1,52 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ''
+webhook_url: 
+sections:
+- type: document
+  path: recspertLanding/config.yml
+  label: Configure
+- type: directory
+  path: recspertLanding/content/blog
+  label: Blog
+  create: all
+  match: "**/*"
+- type: document
+  path: recspertLanding/content/archives.md
+  label: Archives
+- type: document
+  path: recspertLanding/content/contact.md
+  label: Contact
+- type: document
+  path: recspertLanding/content/search.md
+  label: Search
+- type: document
+  path: recspertLanding/content/thanks.md
+  label: Thanks
+- type: document
+  path: recspertLanding/content/legal/privacy.md
+  label: Privacy Policy
+- type: document
+  path: recspertLanding/content/legal/terms-and-conditions.md
+  label: Terms and Conditions
+- type: directory
+  path: recspertLanding/content
+  label: Pages
+  create: all
+  match: "*"
+upload_dir: recspertLanding/static/uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.81.0
+  preview_output_directory: recspertLanding/public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: bash preview.sh
+version: 0.81.0
