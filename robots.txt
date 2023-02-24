@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://imaginative-blancmange-0128e6.netlify.app/sitemap.xml
