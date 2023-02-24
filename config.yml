@@ -96,7 +96,7 @@ params:
     portfolioTitle: Portfolio
     portfolioDescription: Some of my works
     portfolio:
-    - imageUrl: /uploads/portfolio-1.webp
+    - imageUrl: /uploads/0b2966e8342db31a9d907bcf1bf93376.jpg
       alt: # image alt for better SEO
       description: Portfolio One.
       websiteUrl: #
