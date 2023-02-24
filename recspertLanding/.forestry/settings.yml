@@ -4,23 +4,38 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: recspertLanding/config.yml
-  label: Configure
+- type: directory
+  path: ''
+  label: WHAT WE DO
+  create: all
+  match: "**/*"
+- type: directory
+  path: ''
+  label: HOW IT WORKS
+  create: all
+  match: "**/*"
+- type: directory
+  path: ''
+  label: MEET THE TEAM
+  create: all
+  match: "**/*"
 - type: directory
   path: recspertLanding/content/blog
-  label: Blog
+  label: OUR BLOG
   create: all
   match: "**/*"
 - type: document
   path: recspertLanding/content/archives.md
-  label: Archives
+  label: SUBSCRIBE
+- type: document
+  path: recspertLanding/content/search.md
+  label: JOIN US
+- type: document
+  path: recspertLanding/config.yml
+  label: Configure
 - type: document
   path: recspertLanding/content/contact.md
   label: Contact
-- type: document
-  path: recspertLanding/content/search.md
-  label: Search
 - type: document
   path: recspertLanding/content/thanks.md
   label: Thanks
