@@ -3,7 +3,7 @@ baseURL: https://imaginative-blancmange-0128e6.netlify.app
 languageCode: en-us
 title: Recspert
 theme: piko
-paginate: "9"
+paginate: '9'
 copyright: Recspert 2023
 googleAnalytics: 
 enableRobotsTXT: true
@@ -43,8 +43,8 @@ params:
   - "/uploads/og.webp"
   label:
     icon: "/images/new-logo.svg"
-    iconHeight: "140"
-    iconWidth: "50"
+    iconHeight: '140'
+    iconWidth: '50'
   comments: true
   mainSections:
   - blog
@@ -104,10 +104,10 @@ params:
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
-    location: "0"
-    distance: "1000"
-    threshold: "0.4"
-    minMatchCharLength: "0"
+    location: '0'
+    distance: '1000'
+    threshold: '0.4'
+    minMatchCharLength: '0'
     keys:
     - title
     - permalink
@@ -122,32 +122,32 @@ menus:
     title: Blog
     pre: pen-tool
     url: "/blog"
-    weight: "20"
+    weight: '20'
   - name: Search
     title: Search
     pre: search
     url: "/search"
-    weight: "30"
+    weight: '30'
   - name: Contact
     title: Contact
     pre: mail
     url: "/contact"
-    weight: "40"
+    weight: '40'
   - name: Get Started
     title: Get Started
     pre: 
     url: "/login"
-    weight: "50"
+    weight: '50'
   search:
   - name: Categories
     title: Categories
     url: "/categories"
-    weight: "10"
+    weight: '10'
   - name: Archives
     title: Archives
     url: "/archives"
-    weight: "20"
+    weight: '20'
   - name: Tags
     title: Tags
     url: "/tags"
-    weight: "30"
+    weight: '30'
