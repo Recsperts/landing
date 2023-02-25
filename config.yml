@@ -147,5 +147,5 @@ menus:
   - name: JOIN US
     title: JOIN US
     pre:
-    url: /login
+    url: http://app.staging.recspert.com/
     weight: "50"
