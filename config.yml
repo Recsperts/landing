@@ -43,7 +43,7 @@ params:
   description: Recspert - virtual recreation center
   math: false
   images:
-  - "/uploads/og.webp"
+  - "/images/new-logo.png"
   label:
     icon: /images/new-logo.svg
     iconHeight: "140"
