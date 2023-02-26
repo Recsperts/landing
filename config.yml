@@ -105,6 +105,7 @@ params:
     aboutTitle: How it works
     aboutDescription:
     aboutImgUrl: "/uploads/self.webp"
+    aboutVideoUrl: "https://recspert.com/video/tutorial.mp4"
     aboutContent: Hi guys. This is where you put something about yourself.
     # Portfolio Section
     showPortfolioSection: false
@@ -141,21 +142,21 @@ params:
     - link: plugins/js/feather.min.js
 menus:
   main: # Main Menu
-  - name: HOW IT WORKS
-    title: How it Works
-    pre:
-    url: "/#about"
-    weight: "40"
-  - name: MEET THE TEAM
-    title: Meet the Team
+  - name: Meet the Team
+    title: TEAM
     url: "/#team"
     weight: "20"
-  - name: OUR BLOG
-    title: Our Blog
-    url: "/blog"
-    weight: "30"
-  - name: JOIN US
-    title: JOIN US
+  - name: How it Works
+    title: HOW IT WORKS
     pre:
+    url: "/#about"
+    weight: "30"
+  - name: Our Blog
+    title: BLOG
+    url: "/blog"
+    weight: "40"
+  - name: Join us
+    title: JOIN US
+    pre: button
     url: http://app.staging.recspert.com/
     weight: "50"
