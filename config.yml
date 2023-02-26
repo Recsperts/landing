@@ -144,11 +144,11 @@ menus:
   - name: HOW IT WORKS
     title: How it Works
     pre:
-    url: "#about"
+    url: "/#about"
     weight: "40"
   - name: MEET THE TEAM
     title: Meet the Team
-    url: "#team"
+    url: "/#team"
     weight: "20"
   - name: OUR BLOG
     title: Our Blog
