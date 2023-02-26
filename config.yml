@@ -71,7 +71,7 @@ params:
   ShowBreadCrumbs: true
   homepage:
     # Hero Section
-    disableHeroSection: false
+    showHeroSection: true
     heroUpperTitle: 
     heroTitle: Recspert
     heroDescription: Your ultimate virtual recreation center
@@ -81,18 +81,33 @@ params:
     heroCTASecondaryUrl: "/contact/"
     heroBackgroundImage: "/uploads/portfolio-1.webp"
     # Blog Section
-    disableBlogSection: false
+    showBlogSection: true
     blogTitle: Latest Posts
     blogDescription: This is my latest blog posts
     seeMoreText: More Posts
+    showTeamSection: true
+    teamTitle: Meet the team
+    team:
+      - name: Katie
+        role: CEO
+        imageUrl: /images/team/katie.png
+      - name: Tess
+        role: Marketing Manager
+        imageUrl: /images/team/tess.png
+      - name: Liz
+        role: Digital Strategy Manager
+        imageUrl: /images/team/liz.png
+      - name: Alberto
+        role: Software Engineer
+        imageUrl: /images/team/alberto.png
     # About Section    
-    disableAboutSection: false
-    aboutTitle: About
-    aboutDescription: Just something about me
+    showAboutSection: true
+    aboutTitle: How it works
+    aboutDescription:
     aboutImgUrl: "/uploads/self.webp"
     aboutContent: Hi guys. This is where you put something about yourself.
     # Portfolio Section
-    disablePortfolioSection: false
+    showPortfolioSection: false
     portfolioTitle: Portfolio
     portfolioDescription: Some of my works
     portfolio:
@@ -126,23 +141,18 @@ params:
     - link: plugins/js/feather.min.js
 menus:
   main: # Main Menu
-  - name: WHAT WE DO
-    title: What we do
-    pre:
-    url: "/what we do"
-    weight: "20"
   - name: HOW IT WORKS
     title: How it Works
     pre:
-    url: "/how it works"
+    url: "#about"
     weight: "40"
   - name: MEET THE TEAM
     title: Meet the Team
-    url: "/meet the team"
+    url: "#team"
     weight: "20"
   - name: OUR BLOG
     title: Our Blog
-    url: "/tags"
+    url: "/blog"
     weight: "30"
   - name: JOIN US
     title: JOIN US
