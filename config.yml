@@ -145,6 +145,10 @@ params:
     - link: plugins/js/feather.min.js
 menus:
   main: # Main Menu
+   - name: WHAT WE DO
+    title: WHAT WE DO
+    url: "/#whatwedo"
+    weight: "20"
   - name: MEET THE TEAM
     title: TEAM
     url: "/#team"
