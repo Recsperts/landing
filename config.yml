@@ -91,6 +91,9 @@ params:
       - name: Katie
         role: CEO
         imageUrl: /images/team/katie.png
+      - name: Alex
+        role: CTO
+        imageUrl: /images/team/alex.png
       - name: Tess
         role: Marketing Manager
         imageUrl: /images/team/tess.png
