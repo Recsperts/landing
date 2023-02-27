@@ -74,7 +74,7 @@ params:
     showHeroSection: true
     heroUpperTitle: 
     heroTitle: Recspert
-    heroDescription: Your ultimate virtual recreation center
+    heroDescription: Your Ultimate Virtual Recreation Center
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact
@@ -86,7 +86,7 @@ params:
     blogDescription: This is my latest blog posts
     seeMoreText: More Posts
     showTeamSection: true
-    teamTitle: Meet the team
+    teamTitle: MEET THE TEAM
     team:
       - name: Katie
         role: CEO
@@ -105,7 +105,7 @@ params:
         imageUrl: /images/team/alberto.png
     # About Section    
     showAboutSection: true
-    aboutTitle: How it works
+    aboutTitle: HOW IT WORKS
     aboutDescription:
     aboutImgUrl: "/uploads/self.webp"
     aboutVideoUrl: "https://recspert.com/video/tutorial.mp4"
@@ -145,20 +145,20 @@ params:
     - link: plugins/js/feather.min.js
 menus:
   main: # Main Menu
-  - name: Meet the Team
+  - name: MEET THE TEAM
     title: TEAM
     url: "/#team"
     weight: "20"
-  - name: How it Works
+  - name: HOW IT WORKS
     title: HOW IT WORKS
     pre:
     url: "/#about"
     weight: "30"
-  - name: Our Blog
-    title: BLOG
+  - name: OUR BLOG
+    title: OUR BLOG
     url: "/blog"
     weight: "40"
-  - name: Join us
+  - name: JOIN US
     title: JOIN US
     url: http://app.staging.recspert.com/
     weight: "50"
