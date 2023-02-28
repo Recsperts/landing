@@ -11,6 +11,8 @@ TocOpen: true
 
 The holiday season is one of the most exciting times of the year to be around, but it’s also a turbulent time for your body and mind. During this time, you need to step up the workout routine and keep your stress levels under control.
 
+/images/How To Keep A Healthy Mind and Body During The Holidays.png
+
 You don’t want to end up feeling sick, or worse! To help you keep your body and mind healthy during the holidays, here are some tips:
 
 1. Make sure you get enough sleep. Getting enough sleep is one of the most important steps to maintaining good physical and mental health during the holiday season. Sleep helps us to stay energized and alert, and is essential for our overall wellness. It also helps to regulate our mood and gives us a sense of well-being. The holidays can be a hectic time, and it can be difficult to get the recommended 7–9 hours of sleep per night. To make sure you are getting enough restful sleep, establish a regular bedtime routine, turn off all screens and gadgets at least an hour before bed, and avoid eating or drinking anything caffeinated in the afternoon or evening.
