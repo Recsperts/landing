@@ -5,8 +5,7 @@ date: 2022-10-28
 description: If You’re Just Starting Out With Fitness Then These 5 Tips Will Save You A Ton Of Time
 tags: ["math","markdown", "css", "html", "themes"]
 categories: ["themes", "syntax"]
-math: true
-ShowBreadCrumbs: false
+ShowToc: true
 TocOpen: true
 Cover:
   Image: /images/newyear.webp
