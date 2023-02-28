@@ -1,7 +1,7 @@
 ---
 author: "Lizeth Marrufo"
 title: "New Year, New Health & Fitness Resolutions"
-date: "2022-03-05"
+date: "2023-01-010"
 description: "New Year, New Health & Fitness Resolutions"
 tags: ["images","markdown", "css", "html", "themes"]
 categories: ["themes", "syntax"]
