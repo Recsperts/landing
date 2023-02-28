@@ -7,6 +7,8 @@ tags: ["Healthy", "Holidays", "Wellness", "Holiday Season", "Mindfullness"]
 categories: ["themes", "syntax"]
 ShowToc: true
 TocOpen: true
+Cover:
+  Image: /images/How To Keep A Healthy Mind and Body During The Holidays.png
 ---
 
 The holiday season is one of the most exciting times of the year to be around, but it’s also a turbulent time for your body and mind. During this time, you need to step up the workout routine and keep your stress levels under control.
