@@ -7,6 +7,9 @@ tags: ["math","markdown", "css", "html", "themes"]
 categories: ["themes", "syntax"]
 math: true
 ShowBreadCrumbs: false
+TocOpen: true
+Cover:
+  Image: /images/newyear.webp
 ---
 
 Are you ready to start your fitness journey? You’re in luck! Whether you’re a total newbie or an advanced athlete, these tips will help you to reach your goals and set yourself up for long-term success. Let’s have a look.
