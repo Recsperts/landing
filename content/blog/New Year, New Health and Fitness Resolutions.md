@@ -1,7 +1,7 @@
 ---
 author: "Liz Marrufo"
 title: "New Year, New Health & Fitness Resolutions"
-imageUrl: /images/team/katie.png
+imageUrl: /images/uploads/1*6EY0xf0LY-6Rc4FFiNryoA.webp
 date: "2023-01-10"
 description: "New Year, New Health & Fitness Resolutions"
 tags: ["New Years Resolution", "Health", "Family", "New Goals", "Fitness"]
