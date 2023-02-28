@@ -49,6 +49,7 @@ params:
     iconHeight: "140"
     iconWidth: "50"
   comments: true
+  showCoverInsideContent: false
   mainSections:
   - blog
   ShowShareButtons: true
