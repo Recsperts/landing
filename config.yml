@@ -83,7 +83,7 @@ params:
     # Blog Section
     showBlogSection: true
     blogTitle: Latest Posts
-    blogDescription: This is my latest blog posts
+    blogDescription: Our latest blog posts
     seeMoreText: More Posts
     showTeamSection: true
     teamTitle: MEET THE TEAM
@@ -145,7 +145,7 @@ params:
     - link: plugins/js/feather.min.js
 menus:
   main: # Main Menu
-   - name: WHAT WE DO
+  - name: WHAT WE DO
     title: WHAT WE DO
     url: "/#whatwedo"
     weight: "20"
