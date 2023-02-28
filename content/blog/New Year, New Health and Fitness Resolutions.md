@@ -13,7 +13,7 @@ Now that the holidays have gone, we begin to phase into a new year — a time of
 
 Families are busy, and their young athletes’ schedules are packed with sports and school. However, one thing parents can do to help them improve their game this upcoming season is to talk about creating resolutions (or goals) with them for 2023. Goals setting helps set out a plan for what’s important and helps keep them focused. Having specific and attainable goals allows kids to feel a sense of achievement as they check them off throughout the year. Here are a few achievable resolutions you can try with your family.
 
-![This where you put the alt information](/uploads/new years 2023.png)
+![This is where you put the alt](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*6EY0xf0LY-6Rc4FFiNryoA.jpeg "New Years 2023")
 
 **1. Set smart goals for the year.** 
 
