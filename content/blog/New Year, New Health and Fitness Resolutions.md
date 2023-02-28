@@ -7,6 +7,8 @@ tags: ["New Years Resolution", "Health", "Family", "New Goals", "Fitness"]
 categories: ["themes", "syntax"]
 ShowToc: true
 TocOpen: true
+Cover:
+  Image: /images/newyear.webp
 ---
 
 Now that the holidays have gone, we begin to phase into a new year — a time of new beginnings for many as resolutions are pledged and goalposts set in place. 2023 is the year you will hit your personal best, complete an obstacle course run, start eating healthier, and really just take care of yourself. We are here to help you out with some simple (and not-so-simple) ways for you to keep those fitness and wellness goals up!
