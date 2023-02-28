@@ -1,8 +1,8 @@
 ---
-author: "Hugo Authors"
-title: "Adding Images"
+author: "Lizeth Marrufo"
+title: "New Year, New Health & Fitness Resolutions"
 date: "2022-03-05"
-description: "Guide to adding images in Piko theme"
+description: "New Year, New Health & Fitness Resolutions"
 tags: ["images","markdown", "css", "html", "themes"]
 categories: ["themes", "syntax"]
 ShowRelated: false
