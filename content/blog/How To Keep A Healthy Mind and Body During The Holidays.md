@@ -11,7 +11,8 @@ TocOpen: true
 
 The holiday season is one of the most exciting times of the year to be around, but it’s also a turbulent time for your body and mind. During this time, you need to step up the workout routine and keep your stress levels under control.
 
-imageUrl: /images/How To Keep A Healthy Mind and Body During The Holidays.png
+![How To Keep A Healthy Mind and Body During The Holidays.png](/uploads/self.webp)
+
 
 You don’t want to end up feeling sick, or worse! To help you keep your body and mind healthy during the holidays, here are some tips:
 
