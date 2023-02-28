@@ -1,166 +1,23 @@
 ---
-author: "Hugo Authors"
-title: "Markdown Syntax Guide"
-date: "2019-03-11"
-description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+author: "Liz Marrufo"
+title: "New Year, New Health & Fitness Resolutions"
+date: "2023-01-10"
+description: "New Year, New Health & Fitness Resolutions"
 tags: ["markdown", "css", "html", "themes"]
 categories: ["themes", "syntax"]
 ShowToc: true
 TocOpen: true
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Now that the holidays have gone, we begin to phase into a new year — a time of new beginnings for many as resolutions are pledged and goalposts set in place. 2023 is the year you will hit your personal best, complete an obstacle course run, start eating healthier, and really just take care of yourself. We are here to help you out with some simple (and not-so-simple) ways for you to keep those fitness and wellness goals up!
 
-<!--more-->
+Families are busy, and their young athletes’ schedules are packed with sports and school. However, one thing parents can do to help them improve their game this upcoming season is to talk about creating resolutions (or goals) with them for 2023. Goals setting helps set out a plan for what’s important and helps keep them focused. Having specific and attainable goals allows kids to feel a sense of achievement as they check them off throughout the year. Here are a few achievable resolutions you can try with your family.
 
-## Headings
+## 1. Set smart goals for the year.
+## 2. Focus on nutrition and hydration.
+## 3. Practice good sportsmanship.
+## 4. Prioritize mental health.
+## 5. Try new sports.
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+As with most blog posts, we hope to give you plenty of information that may make your New Year healthier and more productive. We also hope to inspire you to try new things, you can also get in touch with some recreation experts at recspert.com, maybe it’ll be something that lasts a few months, or maybe it’ll be something more permanent in your life. Regardless, good luck and we wish you all the best in reaching your goals throughout this upcoming year!
 
-# H1
-
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
-## Paragraph
-
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-#### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-
-#### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.
->
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-| Name  | Age |
-| ----- | --- |
-| Bob   | 27  |
-| Alice | 23  |
-
-#### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-
-## Code Blocks
-
-#### Code block with backticks
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <title>Example HTML5 Document</title>
-    </head>
-    <body>
-        <p>Test</p>
-    </body>
-</html>
-```
-
-#### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-
-{{< highlight html >}}
-
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-#### Gist
-
-{{< gist spf13 7896402 >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
--   List item
--   Another item
--   And another item
-
-#### Nested list
-
--   Fruit
-    -   Apple
-    -   Orange
-    -   Banana
--   Dairy
-    -   Milk
-    -   Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-{{< rawhtml >}}
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-<br><br>
-
-H<sub>2</sub>O
-
-<br><br>
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-<br><br>
-
-Press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd> to end the session.
-
-<br><br>
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-
-{{< /rawhtml >}}
