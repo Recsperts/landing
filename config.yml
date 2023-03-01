@@ -104,13 +104,16 @@ params:
       - name: Alberto
         role: Software Engineer
         imageUrl: /images/team/alberto.png
-    # About Section    
-    showAboutSection: true
-    aboutTitle: HOW IT WORKS
-    aboutDescription:
-    aboutImgUrl: "/uploads/self.webp"
-    aboutVideoUrl: "https://recspert.com/video/tutorial.mp4"
-    aboutContent: Hi guys. This is where you put something about yourself.
+    # What We Do
+    whatWeDo:
+      title: WHAT WE DO
+      text: Recspert is a virtual recreation center that provides a wide range of activities for all ages. We offer a variety of classes, workshops, and events that are designed to help you relax, learn, and have fun. Our goal is to provide a safe and welcoming environment for everyone to enjoy.
+      imageUrl: /images/whatwedo.png
+    # How it works
+    howItWorks:
+      title: HOW IT WORKS
+      description:
+      videoUrl: "https://recspert.com/video/tutorial.mp4"
     # Portfolio Section
     showPortfolioSection: false
     portfolioTitle: Portfolio
