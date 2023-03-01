@@ -2,7 +2,7 @@
 author: "Hugo Authors"
 title: "Learn to relax: Savasana"
 date: "2022-10-14"
-description: "Learn to relax: Savasana"
+description: "How to practice relaxation tehcniques"
 tags: ["Learn to relax","Yoga", "Yoga Benefits", "Relax", "Relaxation Techniques"]
 categories: ["themes", "syntax"]
 ShowRelated: false
