@@ -5,9 +5,10 @@ date: "2022-10-14"
 description: "How to practice relaxation tehcniques"
 tags: ["Learn to relax","Yoga", "Yoga Benefits", "Relax", "Relaxation Techniques"]
 categories: ["themes", "syntax"]
-ShowRelated: false
-showToc: false
-ShowBreadCrumbs: false
+ShowToc: true
+TocOpen: true
+Cover:
+  Image: /images/savasana.jpeg
 ---
 
 In the era of hyperactivity, information overload, and speed, **relaxation is seen as a necessary medicine for everyone.**
