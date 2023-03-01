@@ -2,7 +2,7 @@
 author: "Liz Marrufo"
 title: "How To Keep A Healthy Mind and Body During The Holidays"
 date: "2022-12-20"
-description: "How To Keep A Healthy Mind and Body During The Holidays"
+description: "Learn tips to help keep your body and mind healthy"
 tags: ["Healthy", "Holidays", "Wellness", "Holiday Season", "Mindfullness"]
 categories: ["themes", "syntax"]
 ShowToc: true
