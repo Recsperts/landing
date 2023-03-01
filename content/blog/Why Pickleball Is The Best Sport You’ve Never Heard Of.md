@@ -2,7 +2,7 @@
 author: Liz Marrufo
 title: Why Pickleball Is The Best Sport You’ve Never Heard Of
 date: 2022-11-28
-description: Why Pickleball Is The Best Sport You’ve Never Heard Of
+description: Learn 10 reasons to play Pickleball
 tags:
 - Pickleball
 - Fitness
@@ -13,7 +13,7 @@ categories: ["themes", "syntax"]
 ShowToc: true
 TocOpen: true
 Cover:
-  Image: /images/pickleball.webp
+  Image: /images/pickleball.png
 
 ---
 Pickleball is one of the fastest-growing sports in the United States, and for good reason. It’s an incredibly fun and social game that can be played by people of all ages and skill levels. And, it’s a sport that can be enjoyed both indoors and outdoors.
