@@ -13,7 +13,8 @@ Cover:
 
 *The end of the road and mountain bike season is here, with autumn drawing in and winter soon to follow.* 
 
-/images/indoorcycling.png
+![This is where you put the alt](https://miro.medium.com/v2/resize:fit:720/format:webp/1*zfTu2_haV5UPXYtFROlG0g.jpeg "This is the image title")
+
 
 ## The ‘off-season’
 
