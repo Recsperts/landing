@@ -2,7 +2,7 @@
 author: Liz Marrufo
 title: If You’re Just Starting Out With Fitness Then These 5 Tips Will Save You A Ton Of Time
 date: 2022-10-28
-description: If You’re Just Starting Out With Fitness Then These 5 Tips Will Save You A Ton Of Time
+description: Read 5 time saving tips for a healthy lifestyle
 tags: ["math","markdown", "css", "html", "themes"]
 categories: ["themes", "syntax"]
 ShowToc: true
