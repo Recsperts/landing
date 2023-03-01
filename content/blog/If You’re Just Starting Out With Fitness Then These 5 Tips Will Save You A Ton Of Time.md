@@ -8,7 +8,7 @@ categories: ["themes", "syntax"]
 ShowToc: true
 TocOpen: true
 Cover:
-  Image: /images/newyear.webp
+  Image: /images/stretch rock.jpeg
 ---
 
 Are you ready to start your fitness journey? You’re in luck! Whether you’re a total newbie or an advanced athlete, these tips will help you to reach your goals and set yourself up for long-term success. Let’s have a look.
