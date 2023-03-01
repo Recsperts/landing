@@ -9,12 +9,11 @@ tags:
 - Recreation and Sports
 - Sports Tech
 - Pickleball court
-categories:
-- themes
-- syntax
-hideMeta: true
-searchHidden: true
-ShowBreadCrumbs: false
+categories: ["themes", "syntax"]
+ShowToc: true
+TocOpen: true
+Cover:
+  Image: /images/pickleball.webp
 
 ---
 Pickleball is one of the fastest-growing sports in the United States, and for good reason. It’s an incredibly fun and social game that can be played by people of all ages and skill levels. And, it’s a sport that can be enjoyed both indoors and outdoors.
