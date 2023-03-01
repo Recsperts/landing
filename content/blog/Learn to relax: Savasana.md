@@ -8,7 +8,7 @@ categories: ["themes", "syntax"]
 ShowToc: true
 TocOpen: true
 Cover:
-  Image: /images/savasana.png
+  Image: /images/meditation.png
 ---
 
 In the era of hyperactivity, information overload, and speed, **relaxation is seen as a necessary medicine for everyone.**
