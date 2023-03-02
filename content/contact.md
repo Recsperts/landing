@@ -1,5 +1,5 @@
 ---
-title: MEET THE TEAM
+title: How can we help?
 description: How can I help you?
 disableShare: true
 layout: contact
