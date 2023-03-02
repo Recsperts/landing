@@ -8,7 +8,7 @@ categories: ["themes", "syntax"]
 ShowToc: true
 TocOpen: true
 Cover:
-  Image: /images/agility.png
+  Image: /images/virginiaoutdoor.png
 ---
 
 Virginia is a great place to be in March, especially for families who love the outdoors. Here are the top 5 family-friendly activities for outdoor fun in March in Virginia
