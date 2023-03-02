@@ -112,7 +112,7 @@ params:
     # How it works
     howItWorks:
       title: HOW IT WORKS
-      description:
+      description: Learn how you can use our site to find an activity or become a recreational expert!
       videoUrl: "https://recspert.com/video/tutorial.mp4"
     # Portfolio Section
     showPortfolioSection: false
