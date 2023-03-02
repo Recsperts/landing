@@ -2,13 +2,13 @@
 author: "Liz Marrufo"
 title: "Agility Exercises You Can Try at Home"
 date: "2022-09-20"
-description: "Learn tips to help improve your indoor cycling"
-tags: ["Sports", "indoor", "trainer", "Off Season", "Cyclist"]
+description: "Quick agility exercises to do at home"
+tags: ["Agility", "Agility Training", "Agility Exercises", "Home Exercises", "Balance"]
 categories: ["themes", "syntax"]
 ShowToc: true
 TocOpen: true
 Cover:
-  Image: /images/indoorcycling.png
+  Image: /images/agility.png
 ---
 
 ![This is where you put the alt](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*al-Buq2bGLVKi3vc95BAiw.png "This is the image title")
