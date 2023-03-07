@@ -80,7 +80,7 @@ params:
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact
     heroCTASecondaryUrl: "/contact/"
-    heroBackgroundVideo: "https://www.recspert.com/video/respect_new_vid.mp4"
+    heroBackgroundVideo: "https://youtu.be/rTyFk6uRqlA"
     # Blog Section
     showBlogSection: true
     blogTitle: Latest Posts
