@@ -101,6 +101,9 @@ params:
       - name: Liz
         role: Digital Strategy Manager
         imageUrl: /images/team/liz.png
+      - name: Ivan Teleshov
+        role: Software Engineer
+        imageUrl: /images/Ivan.png
       - name: Alberto
         role: Software Engineer
         imageUrl: /images/team/alberto.png
